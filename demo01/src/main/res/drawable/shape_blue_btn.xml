@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <size
+        android:width="337dp"
+        android:height="42dp" />
+    <corners android:radius="21dp" />
+    <!--填充的颜色-->
+    <solid android:color="#635cff" />
+    <!--设置渐变-->
+    <gradient
+        android:angle="180"
+        android:endColor="#635cff"
+        android:startColor="#8676ff" />
+
+</shape>

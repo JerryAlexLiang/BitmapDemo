@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">demo01</string>
+    <string name="glide_image">Glide的拓展(高斯模糊)</string>
+    <string name="bitmap_image">封装工具类为网络图片设置高斯模糊效果</string>
+</resources>
